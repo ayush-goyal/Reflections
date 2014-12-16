@@ -1,8 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+	It creates a file callsed .git. You need to do this to create a new git repository
+	so you can make commits.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	The files are not in the working directory, nor have they been commited. 
+	It helps keep you organized by choosing what specific files you want to commit.
+	
 How can you use the staging area to make sure you have one commit per logical
 change?
 
